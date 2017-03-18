@@ -1,4 +1,4 @@
-# Pong a  ... Pong game! (2 players)
+# PongSnd a  ... Pong game ... with sound! (2 players)
 
 Paddle size decreases everytime you score!
 
